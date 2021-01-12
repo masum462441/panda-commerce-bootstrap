@@ -1,0 +1,16 @@
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.docopa img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: rgb(247, 238, 247);
+    border-radius: 1em;
+}
+
+
